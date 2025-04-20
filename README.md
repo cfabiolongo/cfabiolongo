@@ -5,7 +5,7 @@ This is the a collection of repositories in Python (3.7+) related to my research
 
 - 👀 I’m interested in Artificial Intelligence, Natural Language Processing, Multi-Agent Systems (MAS) and Sematic Web.
 
-- 💞️ I’m up for collaboration on Large Language Models and MAS, to build hybrid symbolic/sub-symbolic solutions
+- 💞️ I’m up for collaboration on Large Language Models and MAS integration, to build hybrid symbolic/sub-symbolic solutions
   
 - 📫 How to reach me: fabio.longo@cnr.it
 
