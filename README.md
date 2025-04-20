@@ -7,7 +7,7 @@ This is the a collection of repositories in Python (3.7+) related to my research
 
 - 💞️ I’m up for collaboration on Large Language Models and MAS, to build hybrid symbolic/sub-symbolic solutions
   
-- 📫 How to reach me: fabiol.longo@cnr.it
+- 📫 How to reach me: fabio.longo@cnr.it
 
 <!---
 cfabiolongo/cfabiolongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
