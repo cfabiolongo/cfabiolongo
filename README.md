@@ -5,9 +5,9 @@ This is the a collection of repositories in Python (3.7+) related to my research
 
 - 👀 I’m interested in Artificial Intelligence, Natural Language Processing, Multi-Agent Systems (MAS) and Sematic Web.
 
-- 💞️ I’m looking to collaborate on integration of Large Language Models and MAS
+- 💞️ I’m up for collaboration on Large Language Models and MAS, to build hybrid symbolic/sub-symbolic solutions
   
-- 📫 How to reach me: fabiol.longo@istc.cnr.it
+- 📫 How to reach me: fabiol.longo@cnr.it
 
 <!---
 cfabiolongo/cfabiolongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
